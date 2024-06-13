@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/bhav21/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bhav21&include_all_commits=true&theme=merko&hide=contribs,issues&rank_icon=github&show_icons=true" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=bhav21&include_all_commits=true&theme=merko&hide=contribs,issues&rank_icon=github&show_icons=true" />
 </a>
 <a href="https://github.com/bhav21/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav21&theme=merko&layout=compact" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav21&theme=merko&layout=compact" />
 </a>
