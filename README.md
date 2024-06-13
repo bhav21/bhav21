@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 [![Bhavna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhav21&include_all_commits=true&theme=merko&hide=contribs,issues&rank_icon=github&show_icons=true&)](https://github.com/bhav21/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhav21&theme=merko&layout=compact)](https://github.com/bhav21/github-readme-stats)
+
+<a href="https://github.com/bhav21/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhav21&include_all_commits=true&theme=merko&hide=contribs,issues&rank_icon=github&show_icons=true" />
+</a>
+<a href="https://github.com/bhav21/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav21&theme=merko&layout=compact" />
+</a>
